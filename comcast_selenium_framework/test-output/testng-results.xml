@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="71042" started-at="2022-01-25T12:07:42Z" finished-at="2022-01-25T12:08:53Z">
+    <groups>
+      <group name="regressionTest">
+        <method signature="CreatecontactTest.createContactAssignToGroupTest()[pri:0, instance:com.crm.comcast.contactTest.CreatecontactTest@548e7350]" name="createContactAssignToGroupTest" class="com.crm.comcast.contactTest.CreatecontactTest"/>
+      </group> <!-- regressionTest -->
+      <group name="smokeTest">
+        <method signature="CreatecontactTest.createcontactTest()[pri:0, instance:com.crm.comcast.contactTest.CreatecontactTest@548e7350]" name="createcontactTest" class="com.crm.comcast.contactTest.CreatecontactTest"/>
+      </group> <!-- smokeTest -->
+    </groups>
+    <test name="Default test" duration-ms="71042" started-at="2022-01-25T12:07:42Z" finished-at="2022-01-25T12:08:53Z">
+      <class name="com.crm.comcast.contactTest.CreatecontactTest">
+        <test-method status="PASS" signature="configBS()[pri:0, instance:com.crm.comcast.contactTest.CreatecontactTest@548e7350]" name="configBS" is-config="true" duration-ms="16" started-at="2022-01-25T12:07:42Z" finished-at="2022-01-25T12:07:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBS -->
+        <test-method status="PASS" signature="configBC()[pri:0, instance:com.crm.comcast.contactTest.CreatecontactTest@548e7350]" name="configBC" is-config="true" duration-ms="8344" started-at="2022-01-25T12:07:42Z" finished-at="2022-01-25T12:07:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.crm.comcast.contactTest.CreatecontactTest@548e7350]" name="configBM" is-config="true" duration-ms="10116" started-at="2022-01-25T12:07:50Z" finished-at="2022-01-25T12:08:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="createContactAssignToGroupTest()[pri:0, instance:com.crm.comcast.contactTest.CreatecontactTest@548e7350]" name="createContactAssignToGroupTest" duration-ms="20800" started-at="2022-01-25T12:08:00Z" finished-at="2022-01-25T12:08:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createContactAssignToGroupTest -->
+        <test-method status="PASS" signature="configAM()[pri:0, instance:com.crm.comcast.contactTest.CreatecontactTest@548e7350]" name="configAM" is-config="true" duration-ms="1888" started-at="2022-01-25T12:08:21Z" finished-at="2022-01-25T12:08:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.crm.comcast.contactTest.CreatecontactTest@548e7350]" name="configBM" is-config="true" duration-ms="2922" started-at="2022-01-25T12:08:23Z" finished-at="2022-01-25T12:08:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="createcontactTest()[pri:0, instance:com.crm.comcast.contactTest.CreatecontactTest@548e7350]" name="createcontactTest" duration-ms="24184" started-at="2022-01-25T12:08:26Z" finished-at="2022-01-25T12:08:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createcontactTest -->
+        <test-method status="PASS" signature="configAM()[pri:0, instance:com.crm.comcast.contactTest.CreatecontactTest@548e7350]" name="configAM" is-config="true" duration-ms="1484" started-at="2022-01-25T12:08:50Z" finished-at="2022-01-25T12:08:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method status="PASS" signature="configAC()[pri:0, instance:com.crm.comcast.contactTest.CreatecontactTest@548e7350]" name="configAC" is-config="true" duration-ms="1269" started-at="2022-01-25T12:08:51Z" finished-at="2022-01-25T12:08:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+        <test-method status="PASS" signature="configAS()[pri:0, instance:com.crm.comcast.contactTest.CreatecontactTest@548e7350]" name="configAS" is-config="true" duration-ms="0" started-at="2022-01-25T12:08:53Z" finished-at="2022-01-25T12:08:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAS -->
+      </class> <!-- com.crm.comcast.contactTest.CreatecontactTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

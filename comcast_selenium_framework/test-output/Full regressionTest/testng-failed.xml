@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Full regressionTest]">
+  <test thread-count="5" name="test runner 1(failed)">
+    <classes>
+      <class name="com.crm.comcast.OrganizationTest.CreateOrginazationTest">
+        <methods>
+          <include name="configAM"/>
+          <include name="searchOrgwithPhonenoTest"/>
+          <include name="configBM"/>
+          <include name="configBS"/>
+          <include name="configBC"/>
+          <include name="configAS"/>
+          <include name="configAC"/>
+        </methods>
+      </class> <!-- com.crm.comcast.OrganizationTest.CreateOrginazationTest -->
+    </classes>
+  </test> <!-- test runner 1(failed) -->
+</suite> <!-- Failed suite [Full regressionTest] -->
